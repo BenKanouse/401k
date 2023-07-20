@@ -8,7 +8,7 @@ class ReturnOverTime
     self.run(years, current_year - 1, new, rate, contribution) if current_year > 0
   end
 end
-years = 35
+years = 40
 starting_amount = 100_000
 intrest_rate = 0.08
 yearly_contribution = 25_000
